@@ -73,7 +73,7 @@ print (requests.__version__)
 
 3. Q：jupyter notebook是什么
 
-   A：jupyter notebook是一个非常实用的交互式编辑页面，它本质上也是Python的一个库。有了它之后，我们可以一边写代码，一边写markdown文档，方便我们后期总结，这在学习阶段，特别的重要。
+   A：jupyter notebook是一个非常实用的交互式编辑页面，它本质上也是Python的一个库。有了它之后，我们可以一边写代码，一边写markdown文档，方便我们后期总结；同时，它可以以模块化运行我们的代码，方便我们即使的看到我们所写代码的输出内容。这在学习阶段，特别的重要。
 
 
 
